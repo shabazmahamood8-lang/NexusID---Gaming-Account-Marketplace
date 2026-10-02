@@ -1,0 +1,6 @@
+{
+  "name": "NexusID - Gaming Account Marketplace",
+  "description": "Premium gaming ID & account marketplace for PUBG, Valorant, Free Fire, COD, and GTA V. Verified sellers, instant delivery, and secure transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
